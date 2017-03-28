@@ -3,8 +3,6 @@ title: First blog post
 description: This is my first English diary blog. Hello World!
 header: Hello World
 ---
-# 2017/03/28/first English diary blog
-
 
 This is the first blog of my 'English diary'.    
 English. English...   
